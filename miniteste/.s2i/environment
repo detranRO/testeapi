@@ -1,1 +1,1 @@
-DOTNET_STARTUP_PROJECT=./miniteste/miniteste.csproj
+DOTNET_STARTUP_PROJECT=miniteste/miniteste.csproj
