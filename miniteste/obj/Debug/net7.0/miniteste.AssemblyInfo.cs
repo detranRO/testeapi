@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("miniteste")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+403b31b80264136d3af5f0c6d391ea09f9e17c81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36b838669fe29e9613142a561c09ad4ee5eb0b36")]
 [assembly: System.Reflection.AssemblyProductAttribute("miniteste")]
 [assembly: System.Reflection.AssemblyTitleAttribute("miniteste")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
